@@ -103,6 +103,7 @@ public class LinkedStack <T> {
 
     public static void main(String[] args) {
         LinkedStack<String> name = new LinkedStack<>();
+<<<<<<< HEAD
         name.push("farah");
         name.push("farah");
         name.push("farah");
@@ -114,3 +115,16 @@ public class LinkedStack <T> {
 
     }
 }
+=======
+        name.push("ugas");
+        name.push("xasan");
+        name.push("Nasro");
+        name.push("miski");
+        name.push("farah");
+        name.push("cabdullahi");
+        System.out.println(name.peek());
+
+
+    }
+}
+>>>>>>> 16c3495 (alx)
